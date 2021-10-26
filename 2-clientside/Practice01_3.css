@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(40,204,158);
+}
+
+.titleimage div{
+    text-align: center;
+}
+div{
+    color:white;
+    font-size: 14px;
+    text-align: center;
+    margin: 14px;
+}
+.omikuji div{
+    text-align: center;
+}
+
+.box p{
+    font-size: 100px;
+    display: inline;
+    width: 1.5em; border: solid 3px #000;
+}
+.stop button{
+    display: inline;
+}
